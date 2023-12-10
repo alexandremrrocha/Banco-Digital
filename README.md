@@ -1,23 +1,19 @@
-
-# Banco Digital
+# Banco Digital PF
 
 Esse software é um projeto feito para a prática da linguagem java e dos conceitos
 de orientação a objetos.
 
 Nele encontramos todos os conceitos de POO, e a implementação deles sem o uso de
-dependencias.
+dependências.
 
 ## Funcionalidades
 
-- Permite que o usuário crie contas
-- Faça saques
-- Faça depositos
-- Faça transferências para outra conta
+- Permite que o usuário crie contas Correntes e de Poupanças
 
 ## Aprendizados
 
-- Releembrei conceitos de POO
-- Implementei todos os conceitos de POO na pratica
+- Relembrei conceitos de POO
+- Implementei os conceitos de POO na pratica
 
 ## Licença
 
