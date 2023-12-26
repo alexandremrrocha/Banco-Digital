@@ -1,7 +1,7 @@
 # Banco Digital PF
 
-Esse software é um projeto feito para a prática da linguagem java e dos conceitos
-de orientação a objetos.
+Um banco digital que permite criar contas corrente e de poupança, depositar dinheiro,
+fazer transferencia entre as contas e imprimir saldo delas.
 
 Nele encontramos todos os conceitos de POO, e a implementação deles sem o uso de
 dependências.
@@ -9,6 +9,10 @@ dependências.
 ## Funcionalidades
 
 - Permite que o usuário crie contas Correntes e de Poupanças
+- Faça depositos nessas contas
+- Faça transferencias entre elas
+- Verifique o saldo de cada conta
+- Verificação de idade para não permitir menores terem conta no banco
 
 ## Aprendizados
 
