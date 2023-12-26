@@ -1,7 +1,7 @@
 # Banco Digital PF
 
 Um banco digital que permite criar contas corrente e de poupança, depositar dinheiro,
-fazer transferencia entre as contas e imprimir saldo delas. 
+fazer transferência entre as contas e imprimir saldo delas.
 
 Nele encontramos todos os conceitos de POO, e a implementação deles sem o uso de
 dependências.
